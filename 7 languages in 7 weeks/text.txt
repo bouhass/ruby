@@ -1,0 +1,7 @@
+some text like that
+and some other text here
+and this line contains the magic keyword
+but this line doesn't contain it
+magic magic
+and some magic
+and some not
